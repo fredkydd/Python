@@ -1,3 +1,4 @@
+# VARIABLES
 # print is the same as JavaScript's console.log()
 print("Hello World! 0\nHello World! 1\nHello World! 2")
 print("Hello" + " " + "Angela")
