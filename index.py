@@ -26,3 +26,11 @@ print("Hello " + input("What is your first name?") + "!")
 
 # len() is the same as JavaScript's .length() function
 print(len(input("What is your name? ")))
+
+# variables are dynamics as JavaScript's let and var keyword. Thehy can be reassign and redeclare
+firstName = "Illusion"
+secondName = "Fancy"
+fullName = firstName + " " + secondName
+fullName = "My full name is " + fullName
+length = len(fullName)
+print(length)
